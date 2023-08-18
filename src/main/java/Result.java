@@ -1,7 +1,5 @@
 public class Result {
 
-    Result res = new Result();
-
     public static void displayGameResult(byte winner) {
 
         if (winner == 1) {

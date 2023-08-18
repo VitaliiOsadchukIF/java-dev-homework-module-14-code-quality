@@ -1,7 +1,5 @@
 public class Display {
 
-    Display disp = new Display();
-
     public static void displayGameBoard(char[] box) {
         System.out.println("\n\n " + box[0] + " | " + box[1] + " | " + box[2] + " ");
         System.out.println("-----------");

@@ -1,7 +1,5 @@
 public class Winner {
 
-    Winner win = new Winner();
-
     public static byte checkWinner(char[] box) {
         // Перевірка по рядках
         for (int i = 0; i <= 6; i += 3) {

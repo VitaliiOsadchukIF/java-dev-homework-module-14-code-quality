@@ -34,6 +34,7 @@ public class App {
 
         // Вивід результату гри
         Result.displayGameResult(winner);
+    scan.close();
     }
 
 

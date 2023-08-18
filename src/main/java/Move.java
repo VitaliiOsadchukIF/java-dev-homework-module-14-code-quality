@@ -17,6 +17,7 @@ public class Move {
                 else {
                     return input;
                 }
+
             } else
                 System.out.println("Invalid input. Enter again.");
         }
